@@ -11,7 +11,7 @@
 - 🎓 Education: B.A in Computer Science, Smith College
 - 💼 Experience: Student Technology Consultant at Smith College
 - 🎂 Age: 18 (Born October 10, 2007)
-- 💙 Pronouns: Genderfluid
+- 💙 Pronouns: He/She
 
 ## Featured Projects
 
@@ -22,7 +22,7 @@
 
 - 🧰 Languages: Python, Java, C#
 - 🎯 Focus: Video Game Development, 2D Game Programming, Game Design
-- ❤️ Interests: Game Development, Indie Games, Software Engineering, Community Tech Consulting
+- ❤️ Interests: 2D/3D Game Development, Indie Games, Software Engineering
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
