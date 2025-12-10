@@ -13,6 +13,9 @@
 - 🎂 Age: 18 (Born October 10, 2007)
 - 💙 Pronouns: He/She
 
+## Connect with Me!
+- LinkedIn: https://www.linkedin.com/in/jasminelee10
+
 ## Featured Projects
 
 - 🎮 [IDGA Repo](https://github.com/JasLee07/IDGA_repo) — A collaborative video game project created for the IDGA game dev club
