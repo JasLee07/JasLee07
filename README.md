@@ -18,7 +18,7 @@
 
 ## Featured Projects
 
-- [IDGA Repo] https://github.com/JasLee07/IDGA_repo — A collaborative video game project created for the IDGA game dev club
+- [ShipSlayer] https://github.com/JasLee07/Shipslayer - Final Project for Intro to Computer Science 
 - [turkeyGame] https://github.com/MyBrown/turkeyGame — Thanksgiving themed game jam 
 
 ## Tech & Interests
