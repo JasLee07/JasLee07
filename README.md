@@ -10,7 +10,7 @@
 - 📍 Location: Northampton, Massachusetts
 - 🎓 Education: B.A in Computer Science, Smith College
 - 💼 Experience: Student Technology Consultant at Smith College
-- 🎂 Age: 18 (Born October 10, 2007)
+- 🎂 Age: 18
 - 💙 Pronouns: He/She
 
 ## Connect with Me!
