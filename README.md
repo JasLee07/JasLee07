@@ -5,7 +5,7 @@
 
 ## About
 
-👋 Hello, I'm **Jasmine Lee**! I'm currently a student at Smith College studying Computer Science with a focus on video game development. I'm passionate about 2D game dev and love programming; I'm currently working on a small 2D platformer! I am always looking for internships and opportunities to grow, so feel free to reach out for connecting or other related things.
+Hello, I'm **Jasmine Lee**! I'm currently a student at Smith College studying Computer Science with a focus on 2D Gameplay Programming. I am working on spreading my clubs reach across Massachusetts and we are open to collab on game jams and talks! Feel free to reach out for collabs on small projects and other ideas!
 
 - 📍 Location: Northampton, Massachusetts
 - 🎓 Education: B.A in Computer Science, Smith College (c/o 2029)
