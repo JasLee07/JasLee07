@@ -9,9 +9,9 @@
 
 - 📍 Location: Northampton, Massachusetts
 - 🎓 Education: B.A in Computer Science, Smith College (c/o 2029)
-- 💼 Experience: Student Technology Consultant at Smith College
+- 💼 Experience: Student Technology Consultant
 - 🎂 Age: 18
-- 💙 Pronouns: He/She
+- 💙 Pronouns: He/They
 
 ## Connect with Me!
 - LinkedIn: https://www.linkedin.com/in/jasminelee10
@@ -23,6 +23,6 @@
 
 ## Tech & Interests
 
-- 🧰 Languages: Python, Java, C#
-- 🎯 Focus: Video Game Development, 2D Game Programming
-- ❤️ Interests: 2D/3D Game Development, Indie Games
+- 🧰 Languages: Java, C#, Python
+- 🎯 Focus: 2D Gameplay Programming
+- ❤️ Interests: Indie Games, Platformers, Cozy games
